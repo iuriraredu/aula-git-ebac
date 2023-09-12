@@ -1,12 +1,10 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Iuri
+-Profissão: Testador Junior
+-Cidade: São Paulo
+-O que faz nas horas vaga:sou DJ
+-Feedback sobre o curso Qualidade de Software: Estou gostando.
+-Feedback sobre a plataforma de estudo da EBAC: A anterior era melhor.
 
 Obrigado!!!
-
-
